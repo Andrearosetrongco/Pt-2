@@ -1,0 +1,65 @@
+{
+
+    "product":[{
+      
+      "productName": "Notebook",
+      "productDescriptioNotebook.jpgn": "High-quality paper notebook for writing and drawing.",
+      "productImage": "Notebook.jpg",
+      "productPrice": "₱50.00 per piece"
+    },
+    {
+      "productName": "Ballpoint Pen",
+      "productDescription": "Smooth writing ballpoint pen, available in multiple colors.",
+      "productImage": "Ballpoint Pen.jpg",
+      "productPrice": "₱15.00 per piece"
+    },
+    {
+      "productName": "Backpack",
+      "productDescription": "Durable school backpack with multiple compartments.",
+      "productImage": "Backpack.jpg",
+      "productPrice": "₱500.00 each"
+    },
+    {
+      "productName": "Pencil Case",
+      "productDescription": "Stylish pencil case to organize your stationery.",
+      "productImage": "Pencil Case.jpg",
+      "productPrice": "₱80.00 each"
+    },
+    {
+      "productName": "Ruler",
+      "productDescription": "Sturdy ruler for precise measurements.",
+      "productImage": "Ruler.jpg",
+      "productPrice": "₱20.00 per piece"
+    },
+    {
+      "productName": "Calculator",
+      "productDescription": "Basic scientific calculator for students.",
+      "productImage": "Calculator.jpg",
+      "productPrice": "₱300.00 each"
+    },
+    {
+      "productName": "Glue Stick",
+      "productDescription": "Non-toxic glue stick, perfect for crafts and projects.",
+      "productImage": "Glue Stick.jpg",
+      "productPrice": "₱25.00 each"
+    },
+    {
+      "productName": "Pencil Crayons",
+      "productDescription": "Set of 24 colorful crayons for drawing and art.",
+      "productImage": "Pencil Crayons.jpg",
+      "productPrice": "₱100.00 per set"
+    },
+    {
+      "productName": "Notebook Binder",
+      "productDescription": "Three-ring binder for organizing papers and notes.",
+      "productImage": "Notebook Binder.jpg",
+      "productPrice": "₱120.00 each"
+    },
+    {
+      "productName": "Stabillo Boss Highlighter",
+      "productDescription": "Bright, long-lasting highlighter for note-taking.",
+      "productImage": "Stabillo Boss Highlighter.jpg",
+      "productPrice": "₱30.00 per piece"
+    }]
+  
+  }
